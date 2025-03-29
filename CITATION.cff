@@ -1,0 +1,23 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'Sistema respiratorio [MATLAB; Spyther; Multisim]'
+message: josshi
+type: software
+authors:
+  - given-names: Josselin
+    family-names: Gonzalez
+    email: l21210380@tectijuana.edu.mx
+    affiliation: Tecnologico Nacional de Mexico
+  - given-names: Leslie
+    family-names: Marin
+    email: l20212506@tectijuana.edu.mx
+    affiliation: Tecnologico Nacional de Mexico
+repository-code: 'https://github.com/josselin81/MSF--PRACTICA-2'
+keywords:
+  - Controlador PID
+  - Sistema de control
+  - Funcion de transferencia
+license: BSD-2-Clause
+date-released: '2025-03-28'
